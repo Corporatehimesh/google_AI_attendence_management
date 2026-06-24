@@ -1,1 +1,0 @@
-@app.route("/add_student", methods=["POST"])
