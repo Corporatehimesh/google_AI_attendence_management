@@ -470,39 +470,49 @@ Rebuild Project
 
 # Future Enhancements
 
-The system can be further improved by implementing:
+# The system can be further improved by implementing:
 
-Cloud Database Integration
+1.Cloud Database Integration
 Use Firebase, MySQL, or MongoDB for centralized storage.
 
-Anti-Spoof Detection
+
+2.Anti-Spoof Detection
 Detect printed photos or mobile screen attacks.
 
-Teacher Authentication
+
+3.Teacher Authentication
 Secure login system for teachers and administrators.
 
-Real-Time Classroom Attendance
+
+4.Real-Time Classroom Attendance
 Continuous attendance monitoring without manual capture.
 
-Advanced Deep Learning Models
+
+5.Advanced Deep Learning Models
 Use ArcFace, InsightFace, or improved FaceNet models for higher accuracy.
 
-Attendance Analytics Dashboard
+
+6.Attendance Analytics Dashboard
 Generate reports, graphs, and attendance statistics automatically.
 
-Multi-Classroom Support
+
+7.Multi-Classroom Support
 Manage multiple classes and departments simultaneously.
 
-Cloud Deployment
+
+8.Cloud Deployment
 Host backend on AWS, Azure, or Google Cloud for remote access.
 
-Push Notifications
+
+9.Push Notifications
 Notify students and faculty regarding attendance status.
 
-Mobile Application Enhancements
+
+10.Mobile Application Enhancements
 Offline attendance mode.
 
-Faster recognition.
+
+11.Faster recognition.
 Better user interface.
 
 
